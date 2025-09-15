@@ -50,8 +50,8 @@ Every APK you see here is also available on **Google Play**. 🎉
 ## 🖼️ Screenshots & Demos
 
 <p align="center">
-  <img src="https://github.com/Mavox-ID/Github_Apps/raw/main/assets/G-meter.png" width="200" />
-  <img src="https://github.com/Mavox-ID/Github_Apps/raw/main/assets/IntDDos.png" width="200" />
+  <img src="https://github.com/Mavox-ID/Github_Apps/raw/main/assets/G-meter.jpg" width="200" />
+  <img src="https://github.com/Mavox-ID/Github_Apps/raw/main/assets/IntDDos.jpg" width="200" />
 </p>
 
 ---
