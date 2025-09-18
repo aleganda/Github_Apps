@@ -43,6 +43,7 @@ Every APK you see here is also available on **Google Play**. 🎉
 
 ## 💾 My Apps
 
+- **⛳ SMines** → A **cool Android app** for those **who are bored**, you can play **Minesweeper**. 
 - **⏩ G-meter** → Fun app that uses the **accelerometer** on the device to measure and display **Ng (Gravity Acceleration)**.  
 - **🖧 IntDDos** → **Official DDos attack application (Not Dos)**, sends **real packets** and really **destroys sites and IP addresses** (Also **supports IP:Port**) **Its use is on your side**, for any actions **`ONLY YOU ARE RESPONSIBLE!`** The **application is paid**, **download only for a fee by mail or in Google Play**, in **all other sources there is no hope for security**  
 ---
@@ -52,6 +53,7 @@ Every APK you see here is also available on **Google Play**. 🎉
 <p align="center">
   <img src="https://github.com/Mavox-ID/Github_Apps/raw/main/assets/G-meter.jpg" width="200" />
   <img src="https://github.com/Mavox-ID/Github_Apps/raw/main/assets/IntDDos.jpg" width="200" />
+<img src="https://github.com/Mavox-ID/Github_Apps/raw/main/assets/SMines.jpg" width="200" />
 </p>
 
 ---
