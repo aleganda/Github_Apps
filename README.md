@@ -97,7 +97,7 @@ Thank you for your activity when you want to work with me and contribute, but ha
 ## 📬 Contact
 
 - 🖥️ QQ-my: [QQ-my](https://qq-my.pp.ua)  
-- ✈︎ Website: [Ye-A! Website](https://ye-a.pp.ua)   
+- ✈︎ Website: for me [Ye-A! Website](https://ye-a.pp.ua) for business company [QQ-my](https://qq-my.pp.ua)
 - 🌐 GitHub: [Mavox-ID](https://github.com/Mavox-ID) 
 - 🛒 Google Play: [My Apps](https://play.google.com/store/apps/dev?id=YOUR_DEV_ID)  
 - ✉️ Reach me: open issues or discussions here on GitHub  
