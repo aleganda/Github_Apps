@@ -22,7 +22,7 @@ Every APK you see here is also available on **Google Play**. 🎉
 
 ---
 
-## Official package name for apps
+## 📟 Official package name
 
 My official package name for all my apps:
 
