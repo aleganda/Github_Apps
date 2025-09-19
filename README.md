@@ -18,7 +18,21 @@ Every APK you see here is also available on **Google Play**. 🎉
 - 🔧 Utilities  
 - 🎮 Games & experiments  
 - 📡 Tools for developers  
-- 🎨 Creative & fun projects  
+- 🎨 Creative & fun projects
+
+---
+
+## Official package name for apps
+
+My official package name for all my apps:
+
+- **com.yea.[appname]**
+
+Example:
+
+- **com.yea.gmeter**
+- **com.yea.intddos**
+- And etc.
 
 ---
 
