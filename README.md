@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ye--A!-Official-blueviolet?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Fun-Apps-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Google%20Play-Android-green?style=for-the-badge&logo=google-play" />
+<img src="https://img.shields.io/badge/AppGallery-Huawei-red?style=for-the-badge&logo=huawei" />
+
 </p>
 
 ---
