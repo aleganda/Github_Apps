@@ -54,9 +54,13 @@ Example:
 
 - 📥 **In Official Markets**:
 
-- [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/dev?id=YOUR_DEV_ID)
+- <a href="https://play.google.com/store/apps/dev?id=YOUR_DEV_ID">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="180">
+  </a>
 
-- [![Huawei AppGallery](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Huawei_AppGallery_white_badge_EN.png/250px-Huawei_AppGallery_white_badge_EN.png)](https://appgallery.huawei.com/#/developer/YOUR_DEV_ID)  
+- <a href="https://appgallery.huawei.com/#/developer/YOUR_DEV_ID">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Huawei_AppGallery_white_badge_EN.png/250px-Huawei_AppGallery_white_badge_EN.png" width="180">
+  </a>
 
 
 ---
