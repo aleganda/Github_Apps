@@ -1,0 +1,55 @@
+name: Android Cli
+
+on:
+  push:
+    paths:
+      - '**/*.apk'
+  workflow_dispatch:
+
+jobs:
+  analyze-apk:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install required tools
+        run: |
+          sudo apt-get update || true
+          sudo apt-get install -y openjdk-11-jdk unzip || true
+          mkdir -p android-sdk
+          cd android-sdk
+          wget https://dl.google.com/android/repository/commandlinetools-linux-9477386_latest.zip -O cmdline-tools.zip || true
+          unzip -o cmdline-tools.zip -d cmdline-tools || true
+          export PATH=$PWD/cmdline-tools/cmdline-tools/bin:$PATH
+          yes | sdkmanager --licenses || true
+          sdkmanager "platform-tools" "build-tools;34.0.0" || true
+          cd ..
+
+      - name: Find APK files
+        id: find_apk
+        run: |
+          APKS=$(find . -type f -name "*.apk")
+          echo "APK_FILES=$APKS" >> $GITHUB_ENV
+
+      - name: Analyze APKs
+        run: |
+          for apk in $APK_FILES; do
+            echo "----------------------------"
+            echo "Analyzing $apk"
+            
+            echo "Version info:"
+            aapt dump badging "$apk" 2>/dev/null | grep version || echo "Can't read version info"
+            
+            echo "Permissions:"
+            aapt dump permissions "$apk" 2>/dev/null || echo "Can't read permissions"
+            
+            echo "Contents:"
+            unzip -l "$apk" || echo "Can't list contents"
+            
+            echo "Signature check:"
+            jarsigner -verify -verbose -certs "$apk" || echo "Signature check failed"
+            
+            echo "----------------------------"
+          done
