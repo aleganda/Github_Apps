@@ -11,6 +11,34 @@
 
 ---
 
+## V.71
+
+Hardware Check
+
+If the device doesn't have an accelerometer, the app notifies you and automatically closes. The user immediately sees a notification that the app won't work without this sensor.
+
+More Accurate G-Force Measurements
+
+In addition to the accelerometer, gyroscope, gravity, and linear acceleration data are taken into account, improving accuracy.
+
+Improved Information Display
+
+Minimum, maximum, and current g-force values ​​are displayed in real time.
+
+The interface has become slightly more informative and intuitive.
+
+App Controls
+
+Pause/Resume buttons to pause/resume measurements.
+
+Reset button to reset all data.
+
+Interactive Footer
+
+Link to the developer's website directly in the app.
+
+---
+
 ## 🛡 Ensuring safety (no malware)
 
 I can't force antivirus vendors to mark files as clean, but I **only provide official builds** in the Releases section and on Google Play.  
