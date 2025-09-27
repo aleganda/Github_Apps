@@ -50,10 +50,14 @@ Example:
 ## 📦 Downloads
 
 - 📥 **Github repo files**:  
-  Go to the folder of the application you want to download, then click on the APK file and on the top right click download and download the application on your device.  
+  Go to the folder of the application you want to download, then click on the APK file and on the top right click download and download the application on your device.
 
-- 🛒 **Google Play**:  
-  Find all my apps on [Google Play Store](https://play.google.com/store/apps/dev?id=YOUR_DEV_ID).  
+- 📥 **In Official Markets**:
+
+- [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/dev?id=YOUR_DEV_ID)
+
+- [![Huawei AppGallery](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Huawei_AppGallery_white_badge_EN.png/250px-Huawei_AppGallery_white_badge_EN.png)](https://appgallery.huawei.com/#/developer/YOUR_DEV_ID)  
+
 
 ---
 
