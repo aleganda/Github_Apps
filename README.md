@@ -60,7 +60,7 @@ Example:
 ## 💾 My Apps
 
 - **⛳ SMines** **|V24.0|** → A **cool Android app** for those **who are bored**, you can play **Minesweeper**. 
-- **⏩ G-meter** **|V70|** → Fun app that uses the **accelerometer** on the device to measure and display **Ng (Gravity Acceleration)**.  
+- **⏩ G-meter** **|V71|** → Fun app that uses the **accelerometer** on the device to measure and display **Ng (Gravity Acceleration)**.  
 - **🖧 IntDDos** **|V57.8|** → **Official DDos attack application (Not Dos)**, sends **real packets** and really **destroys sites and IP addresses** (Also **supports IP:Port**) **Its use is on your side**, for any actions **`ONLY YOU ARE RESPONSIBLE!`** The **application is paid**, **download only for a fee by mail or in Google Play**, in **all other sources there is no hope for security**  
 ---
 
