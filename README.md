@@ -51,7 +51,7 @@ Example:
 - 📥 **Github repo files**:  
   Go to the folder of the application you want to download, then click on the APK file and on the top right click download and download the application on your device.
 
-- 📥 **In the official market:**:
+- 📥 **In the official market:**
 
 - <a href="https://play.google.com/store/apps/dev?id=YOUR_DEV_ID">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="180">
